@@ -33,6 +33,7 @@
     margin-top: 20px;
     text-align: center;
     margin: 10px;
+    cursor: pointer;
 }
 .container{
     position: relative;
